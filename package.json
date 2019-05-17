@@ -1,0 +1,17 @@
+{
+  "name": "entrega1",
+  "version": "1.0.0",
+  "description": "Fundamentos NodJs E1",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "doc": "standard --fix"
+  },
+  "author": "Bryam Giraldo",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.19.0",
+    "standard": "^12.0.1"
+  },
+  "dependencies": {}
+}
