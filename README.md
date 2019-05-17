@@ -14,7 +14,7 @@ git clone https://github.com/Bryamgv13/CursoNodeJsE1.git
 ```
 npm install
 ```
-3.  Correr servidor
+3.  Correr
 ```
 npm start
 ```
